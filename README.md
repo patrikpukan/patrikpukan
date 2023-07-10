@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrikpukan
-- 👀 I’m interested in maaany things 
-- 🌱 I’m currently learning react and stuff
-- 💞️ I’m looking to collaborate on (?)
+- 👀 I’m interested in ReactJS, TailWind CSS and Python
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: https://twitter.com/PatrikPukan
 
 <!---
