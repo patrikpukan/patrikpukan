@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrikpukan
-- 👀 I’m interested in ReactJS, TailWind CSS and Python
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in ReactJS, Tailwind CSS, Kotlin for Native Android Development and Python
+- 🌱 I’m currently studying Software Development at Prague University of Economics and Business
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: https://twitter.com/PatrikPukan
 
