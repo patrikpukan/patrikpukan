@@ -14,13 +14,6 @@ I've spent over 4 years working on software, mostly in small teams where fronten
 - **Backend:** FastAPI · Spring · Node · PostgreSQL · MongoDB
 - **Tooling:** Vite · Docker · Kubernetes · Terraform · GitHub Actions
 
-### 🏔️ Away from the keyboard
-
-- 🏃 **Running & gym:** three evenings a week, to stay sane.
-- 🎮 **PC gaming:** esports in my school years, indie and story-driven games now.
-- 🏂 **Mountains:** hiking in summer, snowboarding when it snows.
-- 🏙️ **Urbanism:** city planning, architecture, transport and design.
-
 ### 📫 Get in touch
 
 Open to new opportunities. I speak English, Slovak and Czech.
